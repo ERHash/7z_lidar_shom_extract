@@ -9,9 +9,7 @@ Ce script Python extrait des fichiers .asc à partir de fichiers .7z dans un dos
 Avant d'exécuter le script, assure-toi que ton environnement Python est configuré correctement avec les dépendances nécessaires.
 
 Python 3.x
-
 Bibliothèque py7zr pour décompresser les archives .7z
-
 Bibliothèque shutil pour déplacer les fichiers extraits
 
 Installer les dépendances
@@ -66,11 +64,11 @@ Modifier
     ├── fichier1.asc
     ├── fichier2.asc
     └── fichier3.asc
+    
 🔑 License
 Ce projet est sous la Licence MIT. Tu peux librement l'utiliser, le modifier, et le redistribuer. Voir le fichier LICENSE pour plus de détails.
 
 🙏 Remerciements
 SHOM pour la fourniture des données LIDAR.
-
 La bibliothèque py7zr pour l'extraction des fichiers .7z.
 
