@@ -1,11 +1,13 @@
 # 7z_lidar_shom_extract
-Ce projet permet d'extraire et de rassembler les thuiles des données LIDAR partagées par le SHOM dans des formats 7z, après téléchargement des données brutes.
+Ce projet permet d'extraire et de rassembler les fichier .asc issues du LIDAR, partagées par le SHOM dans des formats 7z. Après téléchargement de fichier compressés.
 
 https://diffusion.shom.fr/donnees/altimetrie-littorale.html
 
 Les thuiles sont aussi disponibles en geoservices (WMS / WMTS) :
 
 https://diffusion.shom.fr/services-numeriques/geoservices.html
+
+Ou téléchargeable en accès direct via API
 
 ## 📝 Description
 Ce script Python extrait des fichiers .asc à partir de fichiers .7z dans un dossier spécifié et les déplace dans un dossier cible. 
