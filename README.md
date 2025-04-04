@@ -37,7 +37,7 @@ Avant d'exécuter le script, voici les variables importantes à configurer dans 
     
 * **extract_to**: Dossier où les fichiers extraits seront placés temporairement avant d'être déplacés.
     
-+ **target_folder**: Nom du sous-dossier où les fichiers .asc seront extraits à l'intérieur de chaque archive .7z.
++ **target_folder**: Nom du sous-dossier où les fichiers .asc seront extraits à l'intérieur de chaque archive .7z. (ici Mnt1m, il est possible de modifier ce dossier ou de faire une liste de sous dossiers).
     
 - **file_extension** : L'extension des fichiers à extraire (dans ce cas, .asc).
 
