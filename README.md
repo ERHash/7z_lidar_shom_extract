@@ -66,7 +66,7 @@ Modifier
     └── fichier3.asc
     
 🔑 License
-Ce projet est sous la Licence MIT. Tu peux librement l'utiliser, le modifier, et le redistribuer. Voir le fichier LICENSE pour plus de détails.
+Ce projet est sous la Licence MIT. Libre.
 
 🙏 Remerciements
 SHOM pour la fourniture des données LIDAR.
