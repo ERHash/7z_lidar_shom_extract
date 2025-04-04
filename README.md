@@ -71,5 +71,6 @@ Ce projet est sous la Licence MIT. Libre.
 
 ## 🙏 Remerciements
 SHOM pour la fourniture des données LIDAR.
+
 La bibliothèque py7zr pour l'extraction des fichiers .7z.
 
